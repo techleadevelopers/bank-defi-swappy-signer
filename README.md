@@ -1,6 +1,9 @@
-<img src="https://res.cloudinary.com/limpeja/image/upload/v1770993671/swap_1_mvctri.png" alt="swap Logo" width="280">
+<div align="center">
+<img src="https://res.cloudinary.com/limpeja/image/upload/v1770993671/swap_1_mvctri.png" alt="swap Logo" width="380">
+</div>
+<h3>Motor de assinatura e sweeping para o fluxo TRON/USDT da NexSwap. Gera transações TRC20 a partir de endereços filhos (XPUB/XPRV) com HMAC, anti-replay e idempotência persistida.</h3>
 
-Motor de assinatura e sweeping para o fluxo TRON/USDT da NexSwap. Gera transações TRC20 a partir de endereços filhos (XPUB/XPRV) com HMAC, anti-replay e idempotência persistida.
+
 
 ## Principais recursos
 - **HD signing**: deriva `m/44'/195'/0'/0/{index}` a partir de `TRON_XPRV` e assina transfers TRC20.
